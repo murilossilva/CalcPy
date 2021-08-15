@@ -16,7 +16,7 @@
 
   - Para a instalação da [biblioteca statistics](https://docs.python.org/pt-br/3/library/statistics.html?highlight=statistics#module-statistics) também é necessário ir até o terminal, após isso digite o comando `pip install statistics` 
 
-- Clonar o projeto para o seu computador através do comando `git clone https://github.com/murilossilva/CalcPy.git` via terminal
+- Executar o comando `git clone https://github.com/murilossilva/CalcPy.git` no terminal para clonar o repositório em seu computador
 
   
 
