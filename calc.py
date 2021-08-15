@@ -84,3 +84,5 @@ while menu != 0:
         n = float(input('Digite o valor do logaritmando: '))
         base = float(input('Digite o valor da base: '))
         print('O resultado do logaritmo de {} na base {} = {}\n'.format(n, base, (m.log(n)/m.log(base))))
+        if novamente(x) == False:
+            break
